@@ -1,0 +1,4 @@
+/Users/emilzaripov/Downloads/korableva4/src/cmake-build-debug/CMakeFiles/ex_modelview.dir
+/Users/emilzaripov/Downloads/korableva4/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emilzaripov/Downloads/korableva4/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/emilzaripov/Downloads/korableva4/src/cmake-build-debug/CMakeFiles/ex_modelview_autogen.dir
